@@ -1,5 +1,7 @@
 # 日语相关分享
 
+[赛高の日语学习工具の歩み](https://noheartpen.xlog.app/the-story-of-awesome-japanese-study-tools)：「我希望只要是前人走过的弯路，后人就不必再走。也希望後輩们不会像我一样：用大把时间迷茫，在几个瞬间成长。」
+
 [电脑日语输入简明指南 - 少数派](https://sspai.com/post/92346) ：关于日语输入法非常详细的介绍。
 
 ## 沉浸经验分享
@@ -8,7 +10,7 @@
 
 ## Galgame 学日语
 
-[如何优雅地啃日语生肉（Galgame）](https://oscarcx.com/japanese/jp-galgame-setup.html) ：「个人认为，N3学完之后开始接触生肉会比较合适，此时大部分常用语法已经掌握，并且单词量最少有4000。如果你也到了N3水平，那么恭喜🎉，可以继续往下看了。」
+[如何优雅地啃日语生肉（Galgame）](https://oscarcx.com/japanese/jp-galgame-setup.html)：「个人认为，N3学完之后开始接触生肉会比较合适，此时大部分常用语法已经掌握，并且单词量最少有4000。如果你也到了N3水平，那么恭喜🎉，可以继续往下看了。」
 
 [Galgame 日语生肉记录](https://oscarcx.com/japanese/jp-galgame-milestone.html)：「游戏时间是自己手动打卡统计，包括花在这个游戏上的所有时间（阅读，查单词语法，制作单词卡等）。「プレイ時間」统计图使用 matplotlib 绘制。」
 
