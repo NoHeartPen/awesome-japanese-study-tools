@@ -2,7 +2,7 @@
 
 本文是 [赛高の日语学习工具](https://github.com/NoHeartPen/awesome_japanese_study_tools) 项目的文章，如果你发现错别字或者想为这个文章添砖加瓦，欢迎提交 issue，或者通过<NoHeartPen@outlook.com> 与我联系。
 
-[Github](https://github.com/NoHeartPen/awesome_japanese_study_tools/universities/4150010650) :第一时间更新，访问会受到一定限制
+[Github](https://github.com/NoHeartPen/awesome_japanese_study_tools/universities/4150010650) ：第一时间更新，访问会受到一定限制
 
 [Gitee](https://gitee.com/NoHeartPen/awesome_japanese_study_tools/universities/4150010650) ：访问无限制，如有反馈和建议请移步 [Github](https://github.com/NoHeartPen/awesome_japanese_study_tools/)
 
