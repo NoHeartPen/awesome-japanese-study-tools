@@ -4,6 +4,20 @@
 
 [电脑日语输入简明指南 - 少数派](https://sspai.com/post/92346) ：关于日语输入法非常详细的介绍。
 
+## 日本生活相关博客
+
+这里记录那些会分享日本工作、生活相关内容的个人博客，欢迎自荐！
+
+[卿少納言](https://noheartpen.xlog.app/) 「Computational linguist & Chinese, JavaScript & Japanese, Pythonista & Polyglot, TypeScript & Translator.」
+
+[Simon's Blog](https://song.al/) 「旅居日本，这里是Simon的自留地。写写游记，拍拍照片，分享生活。」
+
+[小武爸爸](http://www.tuixiu40.com/)「本站没有搏人眼球的时事爆料、吃喝玩乐，我的文章主要围绕着：如何在日本 “节税、报税、理财、投资” 这四个方面。我知道这些内容受众面非常窄，但这就是我追求的意义——提供真正 “实用” 的日本生活信息。」
+
+[kikajia](https://kikajia.com/)「日本IT程序媛的博客！提供最新日本生活实用资讯，以及学习编程与软件开发时的经验感想！」
+
+[小莫的博客](https://blog.xiaomo.info/)「技术分享、生活随笔」
+
 ## 日语字幕组
 
 [民间字幕组的翻译质量（24 年 10 月）](https://www.haruhana.org/posts/349.html) 「字幕组译制的诸多作品，其翻译质量有高有低，以作品为单位进行评价姑且可行；可若要以组为单位进行评价，则实在困难。」
