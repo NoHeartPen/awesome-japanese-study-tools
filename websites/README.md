@@ -100,11 +100,11 @@ Blog：[読書尚友](https://ebstudio.hatenablog.com/archive/category/%E8%AA%AD
 
 # 语法讲解
 
-- [基本動詞ハンドブック](https://verbhandbook.ninjal.ac.jp/)
+- [基本動詞ハンドブック](https://www2.ninjal.ac.jp/verbhandbook/)
   - 每次看都有新的收获
 - [拟声拟态词](https://www2.ninjal.ac.jp/Onomatope/)
   - 如题
-- [複合動詞レキシコン](https://vvlexicon.ninjal.ac.jp/db/)
+- [複合動詞レキシコン](https://www2.ninjal.ac.jp/vvlexicon/)
   - 综日书讲得太散了点
 
 # 文章难易度判断
