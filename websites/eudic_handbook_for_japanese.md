@@ -51,12 +51,6 @@ MOJi的在线词典功能虽然更鸡肋，但交互设计确实要好得多，�
 	- [https://www.weblio.jp/content/{w}](https://www.weblio.jp/content/{w})
 	- 永远滴神~与它齐名的还有goo辞書，但可惜后者在国内访问不了……
 
-- [goo辞書](https://dictionary.goo.ne.jp/)
-	- [https://dictionary.goo.ne.jp/srch/all/{w}](https://dictionary.goo.ne.jp/srch/all/{w})
-		- 与Weblio基本上使用的是同一个词典『デジタル大辞泉』的数据，
-		- 不过额外提供了几个有用的小功能，比如除了『デジタル大辞泉』本身自带的例句外，还收录了『青空文庫』中包含该单词的例句和惯用句
-		- ![](https://markdoen-1304943362.cos.ap-nanjing.myqcloud.com//2021-07-22-09-55-11.png)
-
 - [JapaDic](https://www.japandict.com)
 	- [https://www.japandict.com/{w}](https://www.japandict.com/{w})
 		- 可以看到声调
