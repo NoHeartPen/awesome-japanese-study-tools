@@ -5,7 +5,7 @@ export default defineConfig({
   lang: 'zh-CN',
   title: '赛高の日语学习工具',
   description: '这里收集日语学习、工作和生活相关的网站、文章和工具。',
-
+  ignoreDeadLinks: true,
   themeConfig: {
     search: {
       provider: 'local',
