@@ -2,6 +2,7 @@ import { defineConfig } from 'vitepress';
 
 // refer https://vitepress.dev/reference/site-config for details
 export default defineConfig({
+  base: '/awesome-japanese-study-tools/',
   lang: 'zh-CN',
   title: '赛高の日语学习工具',
   description: '这里收集日语学习、工作和生活相关的网站、文章和工具。',
