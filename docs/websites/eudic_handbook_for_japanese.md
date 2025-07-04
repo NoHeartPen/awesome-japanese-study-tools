@@ -1,3 +1,5 @@
+# 欧路词典在线辞典
+
 这里介绍一种不太一样的欧路词典使用方法，即「在线词典」这个功能——不用专门切到浏览器再去输一遍自己要查的词，而是借助软件本身实现输入的过程。
 
 不过与使用离线词典相比，欧路这个功能一些不完善的地方：既不能高亮划重点记笔记（倒是可以通过制卡和导出来曲线救国），也不能分享链接，查到有意思的信息只能靠截图记录……
@@ -264,7 +266,7 @@ MOJi的在线词典功能虽然更鸡肋，但交互设计确实要好得多，�
 
 本文是[awesome_japanese_study_tools](https://github.com/NoHeartPen/awesome_japanese_study_tools)项目的文章，基于[CC-BY-NC-SA：署名-非商业性使用-相同方式共享](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)许可，非商业转载请注明出处，禁止任何商业性质的转载。
 
-注：本文在如下网站有备份，如果有问题请尽量到[Github项目](https://github.com/NoHeartPen/awesome_japanese_study_tools)处或通过邮箱[NoHeartPen@outlook.com](NoHeartPen@outlook.com)留言反馈，也非常欢迎大家补充各种可以添加到欧路词典的词典网站:)
+注：本文在如下网站有备份，如果有问题请尽量到[Github项目](https://github.com/NoHeartPen/awesome_japanese_study_tools)处或通过邮箱 <NoHeartPen@outlook.com> 留言反馈，也非常欢迎大家补充各种可以添加到欧路词典的词典网站:)
 
 [有什么好用的日语词典软件？ - NoHeartPen的回答 - 知乎](https://www.zhihu.com/question/37052233/answer/2015870761)
 

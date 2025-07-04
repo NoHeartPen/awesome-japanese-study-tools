@@ -2,7 +2,7 @@
 
 ## 说明
 
-2019 级大三上寒假期间要求完成读书报告，WZY 老师在[日语系推荐书单](the-book-list-by-college-of-japnanese-for-2019-in-2022-09.md)的基础上补充如下书籍。
+2019 级大三上寒假期间要求完成读书报告，WZY 老师在[日语系推荐书单](./the-book-list-by-college-of-japnanese)的基础上补充如下书籍。
 
 ## 正文
 

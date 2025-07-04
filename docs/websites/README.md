@@ -184,7 +184,7 @@ Blog：[読書尚友](https://ebstudio.hatenablog.com/archive/category/%E8%AA%AD
   - 非常详细的介绍日本各个时代服饰
 - [官制大观](http://www.sol.dti.ne.jp/~hiromi/kansei/index.html)
   - 详细介绍日本古代的官职
-- [日本京大石刻拓本]([http://kanji.zinbun.kyoto-u.ac.jp/db-machine/imgsrv/takuhon/)
+- [日本京大石刻拓本](http://kanji.zinbun.kyoto-u.ac.jp/db-machine/imgsrv/takuhon/)
   - 收录了大量中国汉唐时期的碑拓图片
   - 检索是以京都大学 21 世紀 COE プログラム「拓本文字データベース」为基础而实现的，需要到如下地址[http://coe21.zinbun.kyoto-u.ac.jp/djvuchar](http://coe21.zinbun.kyoto-u.ac.jp/djvuchar "http://coe21.zinbun.kyoto-u.ac.jp/djvuchar")下载并安装 djvc 软件
 - [日本语史研究所](http://home.hiroshima-u.ac.jp/isasaki/japanese/)
@@ -279,4 +279,4 @@ Blog：[読書尚友](https://ebstudio.hatenablog.com/archive/category/%E8%AA%AD
 
 感谢 Ta 们的无私分享:)
 
-这篇文章是[awesome_japanese_study_tools](https://github.com/NoHeartPen/awesome_japanese_study_tools)项目的文章，如果你发现错别字或者想为这个文章添砖加瓦，欢迎提交 issue，或者通过[NoHeartPen@outlook.com](NoHeartPen@outlook.com)与我联系。
+这篇文章是[awesome_japanese_study_tools](https://github.com/NoHeartPen/awesome_japanese_study_tools)项目的文章，如果你发现错别字或者想为这个文章添砖加瓦，欢迎提交 issue，或者通过 <NoHeartPen@outlook.com> 与我联系。
