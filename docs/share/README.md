@@ -22,6 +22,14 @@
 
 [Tokyo Life Style](https://liuyuchen777.github.io/ )：「我是一名在日本亚马逊从事商品搜索的软件工程师，专注于信息检索领域的数据质量设计与优化。」
 
+## 工作（日语专业方向）
+
+[日语专业毕业生将来主要能从事什么样的工作？](https://www.zhihu.com/question/49733881/answer/722186625) ：「我明年就要毕业了，感觉前途一片渺茫，不知道自己能做什么。想问问日语专业的哥哥姐姐们，你们都在从事什么样的工作？前景如何？」
+
+[【经验分享】日语专业学生在体制内两年的一些感想](https://mp.weixin.qq.com/s/-D60_6Zr5jDW2zlnDTRagQ) ：「坐标安徽某十八线地级市，现在在某地级市下面的辖区两办一部工作（被要过来帮忙的 TAT）。18 年毕业，19 年才考上，现在已经工作快 2 年了。」
+
+[普通日专生的唠嗑](https://mp.weixin.qq.com/s?__biz=MjM5NTM2NTczMA==&mid=2651779598&idx=2&sn=2c23181d0d4303f3d14b044b83a9df70&chksm=bd03c4038a744d158e28dd0d35b6122363bd165920d67f90f5c83275fe6496e3dbda4c0e0100&mpshare=1&scene=1&srcid=0704McYliBJdi5hj4E6Dem9A&sharer_sharetime=1688465684911&sharer_shareid=de16ecff8024103879896daac725a9e3#rd)： 「一般来说，日语专业最对口的其实就是日企和日语老师。那么跟大家讲讲我了解的情况。」
+
 ## 日语字幕组
 
 [民间字幕组的翻译质量（24 年 10 月）](https://www.haruhana.org/posts/349.html) 「字幕组译制的诸多作品，其翻译质量有高有低，以作品为单位进行评价姑且可行；可若要以组为单位进行评价，则实在困难。」
