@@ -1,6 +1,6 @@
 # 文章
 
-[赛高の日语学习工具の歩み](https://noheartpen.xlog.app/the-story-of-awesome-japanese-study-tools)：「我希望只要是前人走过的弯路，后人就不必再走。也希望後輩们不会像我一样：用大把时间迷茫，在几个瞬间成长。」
+[赛高の日语学习工具の歩み](https://github.com/NoHeartPen/NoHeartPen.github.io/issues/18)：「我希望只要是前人走过的弯路，后人就不必再走。也希望後輩们不会像我一样：用大把时间迷茫，在几个瞬间成长。」
 
 [电脑日语输入简明指南 - 少数派](https://sspai.com/post/92346) ：关于日语输入法非常详细的介绍。
 
@@ -8,7 +8,7 @@
 
 这里记录那些会分享日本工作、生活相关内容的个人博客，欢迎自荐！
 
-[卿少納言](https://noheartpen.xlog.app/) 「Computational linguist & Chinese, JavaScript & Japanese, Pythonista & Polyglot, TypeScript & Translator.」
+[卿少納言](https://publish.obsidian.md/noheartpen/) 「Computational linguist & Chinese, JavaScript & Japanese, Pythonista & Polyglot, TypeScript & Translator.」
 
 [Simon's Blog](https://song.al/) 「旅居日本，这里是Simon的自留地。写写游记，拍拍照片，分享生活。」
 
