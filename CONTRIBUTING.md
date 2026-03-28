@@ -7,7 +7,7 @@
 npm install
 
 # 启动服务
-npm run docs:de
+npm run docs:dev
 
 # 预构建
 npm run docs:build
