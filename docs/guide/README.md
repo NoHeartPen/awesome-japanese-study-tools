@@ -11,3 +11,5 @@
 [Tatsumoto's guide to learning Japanese](https://tatsumoto.neocities.org/)：「A truly explosive approach to learning Japanese. Everything you need for your language study. Click here to start reading our Table of Contents! And if you feel lost and need help, you can also join our community.」
 
 [jpgramma - 日语语法指南](https://res.wokanxing.info/jpgramma/index.html)：外网广受好评的《Tae Kim Japanese Grammar Guide》的中文翻译。
+
+[Japanese Grammar Notes - 日语语法笔记](https://jpnotes.dev/)：免费的中英双语 JLPT N5→N2 语法笔记，每个语法点含含义、接续、例句和易混淆辨析，带振假名、例句朗读和可下载的 Anki 卡组。
