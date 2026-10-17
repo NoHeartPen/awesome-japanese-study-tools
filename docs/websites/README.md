@@ -80,6 +80,8 @@ Blog：[読書尚友](https://ebstudio.hatenablog.com/archive/category/%E8%AA%AD
 
 使用[蜜柑计划](https://mikanani.me/)和[奈斯搜索](https://www.niceso.fun/)等工具搜索时可以加上“中日”、“双语”等关键字
 
+[WatchTranslate](https://watchtranslate.com/)：给没有现成双语字幕的视频自己生成中日双语字幕。Chrome 扩展，支持 YouTube、X 和 B站；视频本身没有字幕时先识别日语语音再翻译，边播放边出字幕。本地下载的视频可以在网页播放器（手机浏览器也能用）里加字幕，字幕可导出 SRT。按时长扣点数，注册送的点数约够 20 分钟无字幕视频，之后付费
+
 ## 新闻
 
 [NEWS WEB EASY](https://www3.nhk.or.jp/news/easy/)：相当于慢速版的 NHK，但听起来很像机器合成的声音，比较适合拿来做口译的训练材料。
