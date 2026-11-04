@@ -14,4 +14,5 @@
 
 [Japanese Grammar Notes - 日语语法笔记](https://jpnotes.dev/)：免费的中英双语 JLPT N5→N2 语法笔记，每个语法点含含义、接续、例句和易混淆辨析，带振假名、例句朗读和可下载的 Anki 卡组。
 
-[Nihongo to Japan](https://www.nihongotojapan.com/)：完全免费，无需注册的日语学习平台。提供从假名入门到 JLPT N1 的系统教材（覆盖 655 个语法），以及 1 万道可即时批改题库。支持繁中与英文界面（截至 2026/8/7 暂无简中）。
+[Nihongo to Japan](https://www.nihongotojapan.com/zh-cn)：免注册的日语学习平台，核心课程、语法、单词、测验全部免费（另有选购的支持者方案：额外练习与 PDF）。提供从假名入门到 JLPT N1 的系统教材（191 课、覆盖 655 个语法），以及 1 万道可即时批改题库。支持简体中文、繁体中文、英文等 9 种语言界面。
+
