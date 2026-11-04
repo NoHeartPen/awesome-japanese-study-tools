@@ -2,11 +2,11 @@
 
 [记住，你永远也没法学会外语](https://l-m-sherlock.github.io/ZhiHuArchive/564422318.html)：无论你是正在学语言，或是有学好一门外语的想法但尚未下定决心，我都建议你认真地读这篇文章，这也许可以帮助你少走几年语言学习的弯路。
 
-[从 0 开始学外语：Refold 路线图（简化版）](https://l-m-sherlock.github.io/ZhiHuArchive/585666622.html)： 外语学习的阶段展望与大致规划。有时间的话，建议阅读 [详细版](https://l-m-sherlock.github.io/ZhiHuArchive/671671625.html)。
+[从 0 开始学外语：Refold 路线图（简化版）](https://l-m-sherlock.github.io/ZhiHuArchive/585666622.html)：外语学习的阶段展望与大致规划。有时间的话，建议阅读 [详细版](https://l-m-sherlock.github.io/ZhiHuArchive/671671625.html)。
 
-[TheMoeWay](https://learnjapanese.moe/)：日语学习的详细规划和资源汇总。[这里](https://hbq08jzhrer.larksuite.com/wiki/space/7448472336845553670?ccm_open_type=lark_wiki_spaceLink&open_tab_from=wiki_home)有正在翻译的中文版。
+[TheMoeWay](https://learnjapanese.moe/)：日语学习的详细规划和资源汇总。[这里](https://zhuanlan.zhihu.com/p/2005777505055967011)有中文版。
 
-[基于二语习得理论的日语学习指南(WIP) ](https://eaa9gdwuyv7.feishu.cn/wiki/YeOSwsG7giLuQxkcDFscUXVZn2f)：基于 Refold 和 TheMoeWay 社区的分享，补充了大量对中国学习者非常有用的内容。
+[基于二语习得理论的日语学习指南(WIP)](https://eaa9gdwuyv7.feishu.cn/wiki/YeOSwsG7giLuQxkcDFscUXVZn2f)：基于 Refold 和 TheMoeWay 社区的分享，补充了大量对中国学习者非常有用的内容。
 
 [Tatsumoto's guide to learning Japanese](https://tatsumoto.neocities.org/)：「A truly explosive approach to learning Japanese. Everything you need for your language study. Click here to start reading our Table of Contents! And if you feel lost and need help, you can also join our community.」
 
