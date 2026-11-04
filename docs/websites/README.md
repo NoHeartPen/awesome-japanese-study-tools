@@ -55,6 +55,12 @@ Blog：[読書尚友](https://ebstudio.hatenablog.com/archive/category/%E8%AA%AD
 
 不方便介绍，自己体会吧
 
+## 双语对照阅读
+
+[https://easybooktranslation.com](https://easybooktranslation.com)
+
+EasyBookTranslation：上传日文 ePub（比如上面青空文库下载的书），生成日中或日英对照的双语电子书，每段原文下方附译文，保留原书排版、插图与章节，人名译法全书统一。按本（$2.99）或按月（$9.9）付费。
+
 ## 其他
 
 - [人民中国](http://www.peoplechina.com.cn/)
