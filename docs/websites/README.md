@@ -61,6 +61,10 @@ Blog：[読書尚友](https://ebstudio.hatenablog.com/archive/category/%E8%AA%AD
 
 EasyBookTranslation：上传日文 ePub（比如上面青空文库下载的书），生成日中或日英对照的双语电子书，每段原文下方附译文，保留原书排版、插图与章节，人名译法全书统一。按本（$2.99）或按月（$9.9）付费。
 
+[https://lightnovellingo.com](https://lightnovellingo.com)
+
+LightNovelLingo（词桥）：在浏览器里读日文原文，汉字上标读音，每句下方附中文整句译文，可以再打开逐词注释（按语块解释，熟悉的词会逐渐不再标注）。可以导入日文 ePub（无 DRM）、TXT，导入时先识别人名、术语并统一译名。书库里有芥川龙之介、夏目漱石、宫泽贤治等 250 多篇青空文库作品（节选）的中文注释版，免费阅读、不用注册；导入自己的书需要注册，注册送约 33 页额度，之后按量付费（$4.99 起）。
+
 ## 其他
 
 - [人民中国](http://www.peoplechina.com.cn/)
