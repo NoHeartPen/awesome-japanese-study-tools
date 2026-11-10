@@ -249,6 +249,8 @@ LightNovelLingo（词桥）：在浏览器里读日文原文，汉字上标读�
 
 - [OJAD - 韻律読み上げチュータ スズキクン)](http://www.gavo.t.u-tokyo.ac.jp/ojad/phrasing/index)
   - 这个网页可以给一段话标出声调，也会提供机器生成的录音
+- [Say 日语声调与假名注音](https://say.pocketplay.win/zh/japanese/)
+  - 粘贴一段日语，标出汉字的假名注音、每个音拍的高低音调和降调位置、元音清化和罗马字，免费、无需登录
 - [国立国会図書館サーチ](http://iss.ndl.go.jp/)
   - 读不了本文，适合人在日本的同学
 - [教案　初級文型とみんなの日本語の導入・練習・活動例](https://jn1et.com/kyouan/)
