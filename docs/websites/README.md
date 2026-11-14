@@ -88,6 +88,8 @@ LightNovelLingo（词桥）：在浏览器里读日文原文，汉字上标读�
 
 [NHK 高校讲座](http://www.nhk.or.jp/kokokoza/)针对日本高中生的网课小视频，字幕可以自由开关
 
+[GetYouTubeTranscript](https://getyoutubetranscript.com/)：粘贴 YouTube 视频链接，提取视频自带的日语字幕文稿（带时间戳），可复制、下载为 TXT/SRT，也能翻译成中文对照看。适合给没有在简介贴文稿的视频做精听和跟读。未登录每天可免费提取少量字幕，付费套餐提供更多
+
 使用[蜜柑计划](https://mikanani.me/)和[奈斯搜索](https://www.niceso.fun/)等工具搜索时可以加上“中日”、“双语”等关键字
 
 ## 新闻
