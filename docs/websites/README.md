@@ -253,6 +253,8 @@ LightNovelLingo（词桥）：在浏览器里读日文原文，汉字上标读�
   - 这个网页可以给一段话标出声调，也会提供机器生成的录音
 - [Say 日语声调与假名注音](https://say.pocketplay.win/zh/japanese/)
   - 粘贴一段日语，标出汉字的假名注音、每个音拍的高低音调和降调位置、元音清化和罗马字，免费、无需登录
+- [EveryApp Language Shadowing 跟读练习](https://everyapp.pro/language-shadowing)
+  - 跟读（shadowing）练习，支持日语等 32 种语言：每种语言 60 个常用短句，可切换常速/慢速、调节语速、循环播放；录下自己的跟读后与示范音频前后对比，按掌握程度自评，由间隔重复安排复习。示范音频为电脑合成语音，录音只留在本机。免费使用（网站另有可选的付费 Pro 套餐）
 - [国立国会図書館サーチ](http://iss.ndl.go.jp/)
   - 读不了本文，适合人在日本的同学
 - [教案　初級文型とみんなの日本語の導入・練習・活動例](https://jn1et.com/kyouan/)
